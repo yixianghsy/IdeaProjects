@@ -2,8 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mall" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mall-parent/document/docker/about-docker" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/spring-boot-study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-cloud-docker-microservice-book-code-docker" vcs="Git" />
   </component>
 </project>
