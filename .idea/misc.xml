@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-parent/mall-cart-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="197" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-content/mall-content-service/src/main/resources/application-dev.yml" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="365" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-content/mall-content-service/src/main/java/com/mall/MallContentServiceApplication.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="522" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-manager/mall-manager-service/src/main/java/com/mall/MallManagerServiceApplication.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1029" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-manager/mall-manager-service/src/main/resources/application-dev.yml" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/README.md" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

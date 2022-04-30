@@ -1,0 +1,11 @@
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbItemMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbOrderShippingMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbItemCatMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbItemParamItemMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbContentCategoryMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbContentMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbItemParamMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbOrderItemMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbOrderMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbUserMapper.java
+/home/hsy/IdeaProjects/mall-parent/mall-manager/mall-manager-dao/src/main/java/com/mall/mapper/TbItemDescMapper.java
