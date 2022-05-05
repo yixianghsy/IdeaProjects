@@ -10,30 +10,39 @@
         <module name="mall-sso-interface" />
         <module name="mall-content-interface" />
         <module name="mall-search-interface" />
-        <module name="mall-order-service" />
         <module name="mall-item-web" />
-        <module name="mall-cart-web" />
+        <module name="my-blog" />
         <module name="mall-sso-web" />
-        <module name="mall-content-service" />
-        <module name="demo" />
+        <module name="user-service-api" />
         <module name="mall-manager-pojo" />
         <module name="mall-cart-service" />
         <module name="mall-common" />
+        <module name="demo" />
+        <module name="xdvideo" />
+        <module name="user-app" />
+        <module name="mall-portal-web" />
+        <module name="mall-order-web" />
+        <module name="mall-order-service" />
+        <module name="mall-cart-web" />
+        <module name="mall-content-service" />
         <module name="mall-manager-web" />
         <module name="mall-manager-service" />
         <module name="mall-manager-dao" />
         <module name="mall-order-interface" />
         <module name="mall-sso-service" />
+        <module name="coupon-service-api" />
         <module name="mall-search-service" />
         <module name="mall-cart-interface" />
-        <module name="mall-portal-web" />
-        <module name="mall-order-web" />
+        <module name="coupon-app" />
         <module name="mall-search-web" />
         <module name="mall-manager-interface" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="coupon-app" target="1.8" />
+      <module name="coupon-service-api" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="demoDocker" target="1.8" />
       <module name="mall-cart" target="8" />
       <module name="mall-cart-interface" target="8" />
       <module name="mall-cart-service" target="8" />
@@ -63,11 +72,21 @@
       <module name="mall-sso-interface" target="8" />
       <module name="mall-sso-service" target="8" />
       <module name="mall-sso-web" target="1.8" />
+      <module name="my-blog" target="1.8" />
+      <module name="my-blog (1)" target="1.8" />
+      <module name="user-app" target="1.8" />
+      <module name="user-service-api" target="1.8" />
+      <module name="xdclass-coupon" target="1.8" />
+      <module name="xdclass-user" target="1.8" />
+      <module name="xdvideo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="demo" options="-parameters" />
+      <module name="coupon-app" options="-parameters" />
+      <module name="coupon-service-api" options="-parameters" />
+      <module name="demo" options="" />
+      <module name="demoDocker" options="-parameters" />
       <module name="mall-cart-interface" options="-parameters" />
       <module name="mall-cart-service" options="-parameters" />
       <module name="mall-cart-web" options="-parameters" />
@@ -90,6 +109,11 @@
       <module name="mall-sso-interface" options="-parameters" />
       <module name="mall-sso-service" options="-parameters" />
       <module name="mall-sso-web" options="-parameters" />
+      <module name="user-app" options="-parameters" />
+      <module name="user-service-api" options="-parameters" />
+      <module name="xdclass-coupon" options="-parameters" />
+      <module name="xdclass-user" options="-parameters" />
+      <module name="xdvideo" options="-parameters" />
     </option>
   </component>
 </project>

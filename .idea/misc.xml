@@ -1,15 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/blog" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/mall-parent/pom.xml" />
         <option value="$PROJECT_DIR$/mall-parent/mall-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/my-Bloy/pom.xml" />
+        <option value="$PROJECT_DIR$/DemoMybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/demoSpringboot/pom.xml" />
+        <option value="$PROJECT_DIR$/xdvideo/pom.xml" />
+        <option value="$PROJECT_DIR$/xdclass-user/pom.xml" />
+        <option value="$PROJECT_DIR$/xdclass-user/user-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xdclass-user/user-app/pom.xml" />
+        <option value="$PROJECT_DIR$/xdclass-coupon/coupon-app/pom.xml" />
+        <option value="$PROJECT_DIR$/xdclass-coupon/coupon-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xdclass-coupon/pom.xml" />
+        <option value="$PROJECT_DIR$/springDubbo/xdclass-coupon/coupon-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springDubbo/xdclass-coupon/coupon-app/pom.xml" />
+        <option value="$PROJECT_DIR$/springDubbo/xdclass-user/user-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springDubbo/xdclass-user/user-app/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="934" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-search/mall-search-service/src/main/resources/application-dev.yml" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="10" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-manager-web/src/main/resources/application-dev.properties" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="365" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-content/mall-content-service/src/main/java/com/mall/MallContentServiceApplication.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="351" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-manager/mall-manager-service/src/main/java/com/mall/MallManagerServiceApplication.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="371" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-search/mall-search-service/src/main/java/com/mall/MallSearchServiceApplication.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="176" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/mall-parent/mall-manager-web/src/main/java/com/mall/MallManagerWebApplication.java" />
+        </OpenedFileInfo>
+      </list>
+    </option>
   </component>
 </project>

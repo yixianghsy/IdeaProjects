@@ -1,4 +1,4 @@
-package com.e3mall.mapper.controller;
+package com.mall.mapper.controller;
 
 import com.mall.content.service.ContentCategoryService;
 import com.mall.pojo.EasyUITreeNode;

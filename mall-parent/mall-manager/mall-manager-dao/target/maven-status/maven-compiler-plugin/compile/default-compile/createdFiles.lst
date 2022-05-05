@@ -6,6 +6,6 @@ com/mall/mapper/TbOrderMapper.class
 com/mall/mapper/TbItemCatMapper.class
 com/mall/mapper/TbContentCategoryMapper.class
 com/mall/mapper/TbItemMapper.class
-com/mall/mapper/TbItemDescMapper.class
 com/mall/mapper/TbOrderItemMapper.class
+com/mall/mapper/TbItemDescMapper.class
 com/mall/mapper/TbOrderShippingMapper.class

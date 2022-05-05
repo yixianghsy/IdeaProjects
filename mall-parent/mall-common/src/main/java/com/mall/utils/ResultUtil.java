@@ -1,6 +1,6 @@
 package com.mall.utils;
 
-import lombok.Data;
+import lombok.*;
 
 import java.io.Serializable;
 

@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDubbo/xdclass-coupon/coupon-app/coupon-app.iml" filepath="$PROJECT_DIR$/springDubbo/xdclass-coupon/coupon-app/coupon-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDubbo/xdclass-coupon/coupon-service-api/coupon-service-api.iml" filepath="$PROJECT_DIR$/springDubbo/xdclass-coupon/coupon-service-api/coupon-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoSpringboot/demo.iml" filepath="$PROJECT_DIR$/demoSpringboot/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-cart/mall-cart.iml" filepath="$PROJECT_DIR$/mall-parent/mall-cart/mall-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-cart/mall-cart-interface/mall-cart-interface.iml" filepath="$PROJECT_DIR$/mall-parent/mall-cart/mall-cart-interface/mall-cart-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-cart/mall-cart-service/mall-cart-service.iml" filepath="$PROJECT_DIR$/mall-parent/mall-cart/mall-cart-service/mall-cart-service.iml" />
@@ -33,6 +35,10 @@
       <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-sso/mall-sso-interface/mall-sso-interface.iml" filepath="$PROJECT_DIR$/mall-parent/mall-sso/mall-sso-interface/mall-sso-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-sso/mall-sso-service/mall-sso-service.iml" filepath="$PROJECT_DIR$/mall-parent/mall-sso/mall-sso-service/mall-sso-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-sso-web/mall-sso-web.iml" filepath="$PROJECT_DIR$/mall-parent/mall-sso-web/mall-sso-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-Bloy/my-blog.iml" filepath="$PROJECT_DIR$/my-Bloy/my-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDubbo/xdclass-user/user-app/user-app.iml" filepath="$PROJECT_DIR$/springDubbo/xdclass-user/user-app/user-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springDubbo/xdclass-user/user-service-api/user-service-api.iml" filepath="$PROJECT_DIR$/springDubbo/xdclass-user/user-service-api/user-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xdvideo/xdvideo.iml" filepath="$PROJECT_DIR$/xdvideo/xdvideo.iml" />
     </modules>
   </component>
 </project>

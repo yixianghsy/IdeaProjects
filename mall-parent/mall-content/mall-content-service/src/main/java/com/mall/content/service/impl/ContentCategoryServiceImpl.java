@@ -35,7 +35,9 @@ public class ContentCategoryServiceImpl  implements ContentCategoryService {
         //设置查询条件
         criteria.andParentIdEqualTo(parentId);
         //执行查询
+        System.out.printf("进来了");
         List<TbContentCategory> catList = tbContentCategoryMapper.selectByExample(example);
+        System.out.printf("出去了");
         //转换成EasyUITreeNode的列表
         List<EasyUITreeNode> nodeList = new ArrayList<>();
         for (TbContentCategory tbContentCategory:catList) {
